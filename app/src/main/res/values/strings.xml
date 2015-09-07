@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TKS News</string>
+    <string name="plase_wait">Please wait…</string>
+    <string name="server_error">Server error</string>
+    <string name="error_code_frmt">Error. Code: %1$d</string>
+    <string name="internet_connection_error">Internet connection error</string>
+    <string name="details">Details</string>
+    <string name="news_not_found">Sorry, news not found</string>
+</resources>

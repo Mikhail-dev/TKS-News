@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="activity_left_margin">16dp</dimen>
+    <dimen name="activity_right_margin">16dp</dimen>
+    <dimen name="activity_top_margin">16dp</dimen>
+    <dimen name="activity_bottom_margin">16dp</dimen>
+
+    <dimen name="title_textView">20sp</dimen>
+</resources>
